@@ -28,3 +28,5 @@
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     * Ég tel að maður eigi að gera commits eins oft og maður vill en samt með ákveðnu millibili þannig að auðvelt sé fyrir mann að fara til baka.
 
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    * Working Directory er sú geymsla sem unnið er í og Staging Area er skrefið áður en maður commitar í geymsluna.
