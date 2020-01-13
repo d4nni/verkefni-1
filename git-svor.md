@@ -22,3 +22,6 @@
 4. Hvað er útgáfustýring (Version Control)?
     * Er kerfi sem að tekur afrit af öllum breytingum og er svo hægt að fara aftur í þessar breytingar ef maður vill það
 
+5. Hverjir eru helstu kostir við að nota GIT?
+    * Með því nota git er auðvelt að fara aftur til baka í breytingum og vinna auðveldlega og hratt
+
