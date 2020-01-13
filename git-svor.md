@@ -25,3 +25,6 @@
 5. Hverjir eru helstu kostir við að nota GIT?
     * Með því nota git er auðvelt að fara aftur til baka í breytingum og vinna auðveldlega og hratt
 
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    * Ég tel að maður eigi að gera commits eins oft og maður vill en samt með ákveðnu millibili þannig að auðvelt sé fyrir mann að fara til baka.
+
