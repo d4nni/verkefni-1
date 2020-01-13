@@ -19,3 +19,6 @@
     * git checkout - gerir manni kleift að skipta á milli git greina
     * git branch - leyfir manni að búa til, eyða, endurnefna og sett í lista greinar.
 
+4. Hvað er útgáfustýring (Version Control)?
+    * Er kerfi sem að tekur afrit af öllum breytingum og er svo hægt að fara aftur í þessar breytingar ef maður vill það
+
