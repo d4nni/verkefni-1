@@ -1,4 +1,4 @@
-#  Verkefni
+#  Þetta er grein 1
 
 # Git spurningar og svör
 
